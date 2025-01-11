@@ -1,4 +1,3 @@
-```markdown
 # PDF Splitor
 
 PDF Splitor adalah aplikasi berbasis GUI untuk memanipulasi file PDF dengan fitur seperti menandai halaman, membagi file PDF, memutar halaman, memperbesar/memperkecil tampilan, dan mengonversi file PDF ke format Word (.docx). Aplikasi ini dibangun menggunakan Python dengan pustaka seperti `tkinter`, `PyMuPDF`, dan `Pillow`.
