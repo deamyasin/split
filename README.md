@@ -87,6 +87,3 @@ Dikembangkan oleh Dea sebagai alat bantu manajemen file PDF dengan fitur-fitur u
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
-```
-=======
-# split
