@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ```markdown
 # PDF Splitor
 
@@ -92,4 +91,3 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 ```
 =======
 # split
->>>>>>> b8ec8c99e640de37a4cc1c8e30e60f8b0e60c9e7
